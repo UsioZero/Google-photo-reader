@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "39184646802",
+    "firebase_url": "https://gpr-1-ee317.firebaseio.com",
+    "project_id": "gpr-1-ee317",
+    "storage_bucket": "gpr-1-ee317.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39184646802:android:b62a49b85e9e1f6fe19c4b",
+        "android_client_info": {
+          "package_name": "com.example.gpr_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39184646802-e7gk70fbpjq3bnkcaq4iee0aq7rhnbj5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gpr_1",
+            "certificate_hash": "3d382867702f43554f038b3fa21baa04853b6d59"
+          }
+        },
+        {
+          "client_id": "39184646802-5v2chg40eotto69mck0ioe7s5v7f8ifp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8umeiYI7jZs0fPfF4Os95OMPraCb9-JA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39184646802-5v2chg40eotto69mck0ioe7s5v7f8ifp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
